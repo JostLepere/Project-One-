@@ -61,9 +61,9 @@ message
 Containers will hold different type of lists or dicts, which can hold a string of information and 
 
 **#-> Lists or dicts#**
-Always in [ ]    first slot is 0, second is 1 and so on…
+Always in [ ]    first slot is 0, second is 1 and so on… <br />
                           Negativ Intgr calls end of list 
-Sections are called slices
+Sections are called slices<br />
 <br />
 **lists**
 my_roster_list = ['tom brady', 'adrian peterson', 'antonio brown']
@@ -74,10 +74,10 @@ my_roster_list[-2:]
 <br />
 <br />
 **dicts** 
-Python dicts have key and values
-
-Hold data and give each piece a name. Written in { } 
-dicts
+Python dicts have key and values <br />
+<br />
+Hold data and give each piece a name. Written in { } <br />
+<br />
 my_roster_dict = {'qb': 'tom brady',
                   'rb1': 'adrian peterson',
                   'wr1': 'antonio brown'}
