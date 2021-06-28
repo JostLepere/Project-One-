@@ -81,3 +81,24 @@ Hold data and give each piece a name. Written in { } <br />
 my_roster_dict = {'qb': 'tom brady',
                   'rb1': 'adrian peterson',
                   'wr1': 'antonio brown'}
+<br />
+<br />
+<br />
+**Indexing**
+You can access individual list elements with square brackets. <br />
+Which planet is closest to the sun? Python uses zero-based indexing, so the first element has index 0 <br />
+List functions <br />
+len  #length of list <br /> 
+sorted #sort in specific order <br />
+sum #sum <br />
+<br />
+<br />
+.append   #adds an appendix which e.g. doesn’t really belong to the list <br />
+<br />
+<br />
+**Tuples**
+Tuples are almost exactly the same as lists. They differ in just two ways. <br />
+1: The syntax for creating them uses parentheses instead of square brackets <br />
+2: They cannot be modified (they are immutable). <br />
+t = (1, 2, 3)    # e.g. <br />
+
