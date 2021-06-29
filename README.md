@@ -2,9 +2,7 @@
 
 **This is a short summary for me personally on what I want to remeber after the first week of learning python with @codeacademyberlin**<br />
 
-
 The list of most important commands, functions and general things to keep in mind is far from complete, just for me to remember. <br />
-
 
 We will get started with first **basic functions**. Ususally in python you would destinguish between inbuild functions and functions build by the user. <br />
 
